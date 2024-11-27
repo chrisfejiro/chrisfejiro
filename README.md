@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ayneor Christopher,and I am a Fullstack web developer and Electrical Engineer!
+My name is Ayenor Christopher,and I am a Fullstack web developer and Electrical Engineer!
 - 🔭 I’m currently working on a new startup and we are building a application for Learning Institutions to foster communication between students .
 - 🌱 I’m currently learning Electrical and Computer Engineering(Master)
 - 🌱 I recently built a program to ......... ,check it out [here]().
