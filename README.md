@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Ayenor Christopher,and I am a Software Engineer and Embedded systems engineer!
-[![chrisfejiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisfejiro)](https://github.com/anuraghazra/github-readme-stats)
+[![chrisfejiro's GitHub stats]([https://github-readme-stats.vercel.app/api?username=chrisfejiro](https://github.com/chrisfejiro/chrisfejiro/blob/main/Basic%20Simple%20Presentation%20in%20Black%20Blue%20Sleek%20and%20Professional%20Style.png))](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on a new startup and I am building a application for Learning Institutions to foster communication between students .
 - 🌱 I’m currently learning Electrical and Computer Engineering(Master)
 - 🌱 I recently built a program to ......... ,check it out [here]().
