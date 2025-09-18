@@ -6,7 +6,7 @@
 ## Skills and Experience
 -⚛ React,Next
 -💻HTML,CSS,JS,TS
--📱C#,Java
+-📱C#,Java,Verilog,VHDL,Python,MATLAB
 
 
 [![chrisfejiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisfejiro)](https://github.com/anuraghazra/github-readme-stats)
